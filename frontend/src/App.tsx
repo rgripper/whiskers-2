@@ -1,11 +1,13 @@
-import React from "react";
-import { Button } from "antd";
+import { Col, Row } from "antd";
+import { SearchContainer } from "./SearchContainer";
 
 function App() {
   return (
-    <div>
-      <Button>Hey!</Button>
-    </div>
+    <Row justify="center">
+      <Col span={24} xs={24} md={12} lg={8}>
+        <SearchContainer />
+      </Col>
+    </Row>
   );
 }
 

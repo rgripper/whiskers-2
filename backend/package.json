@@ -1,8 +1,7 @@
 {
   "name": "whiskers-2",
   "version": "1.0.0",
-  "main": "index.js",
-  "type": "module",
+  "main": "dist/index.js",
   "license": "MIT",
   "dependencies": {
     "@vendia/serverless-express": "^4.5.2",
@@ -25,7 +24,7 @@
     "typescript": "^4.5.2"
   },
   "scripts": {
-    "start": "serverless offline start",
+    "start": "serverless offline start --httpPort 4000",
     "watch": "yarn build --watch",
     "deploy-prod": "serverless --stage=production deploy",
     "test": "jest src",
