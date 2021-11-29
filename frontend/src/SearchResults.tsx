@@ -5,7 +5,7 @@ export function SearchResults({ companies }: { companies: Company[] }) {
   return (
     <Space direction="vertical" size="large" data-testid="search-results">
       {companies.map((company) => (
-        <Space direction="horizontal" size="middle">
+        <Space key={company.name} direction="horizontal" size="middle">
           <img alt="logo" src="http://placekitten.com/g/116/116" />
           <div>
             <Typography.Title level={4} data-testid="company-name">
