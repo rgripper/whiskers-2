@@ -25,6 +25,6 @@ Right now App is running on serverless with intention to be deployed on AWS and 
 So the actual routing and validation is performed by `express`.
 
 ## Unimplemented ideas
-If there are more endpoints, I would use GraphQL on top of serverless (e.g. `apollo-server-lambda`) (I find GraphQL schema language is easier to work with and has better tooling than OpenAPI). Otherwise I'd use something more declarative like NestJS with decorators.
+If there are more endpoints, I would use GraphQL on top of serverless (e.g. `apollo-server-lambda`) (I find GraphQL schema language is easier to work with and has better tooling than OpenAPI). Otherwise I'd use a more declarative REST library like NestJS with decorators.
 
 I would maybe create terraform deployment instead of serverless to have more control (e.g. to run on Node v16, which is at LTS but still doesn't seem to be supported by serverless).
