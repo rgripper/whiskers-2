@@ -2,6 +2,10 @@
 
 Assumed that filtering of companies by name and services is done on the backend.
 
+# Demo
+
+There is a `demo.gif` in this repo with the demo of the app.
+
 # Frontend
 
 Starting:
