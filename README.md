@@ -1,3 +1,7 @@
+# Interpretation of the task
+
+Assumed that filtering of companies by name and services is done on the backend.
+
 # Frontend
 
 Starting:
@@ -11,6 +15,10 @@ Cypress tests (check out `frontend\cypress\integration\search.spec.js`)
 ```
 yarn cypress:open
 ```
+
+## Notes
+
+Search is debounced
 
 ## Libraries
 
@@ -63,3 +71,5 @@ I would maybe create terraform deployment instead of serverless to have more con
 Build a pipeline using Github Actions (to deploy serverless on AWS and frontend on Netlify)
 
 Add unit tests with `jest` + `react-testing-library` on the frontend.
+
+Infinite scroll for search results, in case there are a lot of companies.

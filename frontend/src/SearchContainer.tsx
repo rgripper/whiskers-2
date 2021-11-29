@@ -16,7 +16,7 @@ export function SearchContainer() {
   const [selectedServices, selectServices] = useState<string[]>(services);
   const { data: companies, error } = useCompanies({ search, searchMinLength, services: selectedServices });
 
-  const setSearchDebounced = useMemo(() => debounce(setSearch), []);
+  const setSearchDebounced = useMemo(() => debounce(setSearch, 250), []);
 
   if (error instanceof Error) {
     return <Alert type="error">{error.message}</Alert>;
