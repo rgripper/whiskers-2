@@ -1,0 +1,3280 @@
+[
+    {
+        "name": "Dabvine",
+        "city": "Köln",
+        "services": [
+            "demolition"
+        ]
+    },
+    {
+        "name": "Yata",
+        "city": "Leipzig",
+        "services": [
+            "demolition",
+            "electrical",
+            "plumbing"
+        ]
+    },
+    {
+        "name": "Dabshots",
+        "city": "Nürnberg",
+        "services": [
+            "demolition",
+            "plumbing",
+            "sewage"
+        ]
+    },
+    {
+        "name": "Ooba",
+        "city": "Dresden",
+        "services": [
+            "demolition",
+            "electrical",
+            "excavation",
+            "plumbing"
+        ]
+    },
+    {
+        "name": "Fivespan",
+        "city": "Düsseldorf",
+        "services": [
+            "electrical",
+            "excavation",
+            "plumbing"
+        ]
+    },
+    {
+        "name": "Plajo",
+        "city": "Hannover",
+        "services": [
+            "demolition",
+            "electrical",
+            "excavation",
+            "plumbing",
+            "sewage"
+        ]
+    },
+    {
+        "name": "Oyoloo",
+        "city": "Bochum",
+        "services": [
+            "demolition",
+            "electrical",
+            "excavation",
+            "sewage"
+        ]
+    },
+    {
+        "name": "Rhybox",
+        "city": "Köln",
+        "services": [
+            "demolition",
+            "electrical",
+            "excavation",
+            "sewage"
+        ]
+    },
+    {
+        "name": "JumpXS",
+        "city": "Wuppertal",
+        "services": [
+            "excavation"
+        ]
+    },
+    {
+        "name": "Izio",
+        "city": "Hamburg",
+        "services": [
+            "electrical",
+            "excavation",
+            "plumbing"
+        ]
+    },
+    {
+        "name": "Jabbersphere",
+        "city": "Essen",
+        "services": [
+            "demolition",
+            "electrical",
+            "excavation",
+            "plumbing",
+            "sewage"
+        ]
+    },
+    {
+        "name": "Browsezoom",
+        "city": "Nürnberg",
+        "services": [
+            "electrical",
+            "excavation"
+        ]
+    },
+    {
+        "name": "Zoonder",
+        "city": "Essen",
+        "services": [
+            "demolition",
+            "electrical",
+            "sewage"
+        ]
+    },
+    {
+        "name": "Rhycero",
+        "city": "Düsseldorf",
+        "services": [
+            "electrical",
+            "excavation",
+            "plumbing"
+        ]
+    },
+    {
+        "name": "Tagcat",
+        "city": "Essen",
+        "services": [
+            "demolition",
+            "electrical",
+            "excavation"
+        ]
+    },
+    {
+        "name": "Zoonoodle",
+        "city": "Wuppertal",
+        "services": [
+            "demolition",
+            "electrical",
+            "excavation"
+        ]
+    },
+    {
+        "name": "Aivee",
+        "city": "Duisburg",
+        "services": [
+            "demolition",
+            "electrical",
+            "excavation",
+            "sewage"
+        ]
+    },
+    {
+        "name": "Eire",
+        "city": "Frankfurt",
+        "services": [
+            "demolition",
+            "electrical",
+            "excavation",
+            "sewage"
+        ]
+    },
+    {
+        "name": "Meevee",
+        "city": "Dortmund",
+        "services": [
+            "sewage"
+        ]
+    },
+    {
+        "name": "Mita",
+        "city": "Hannover",
+        "services": [
+            "demolition",
+            "electrical",
+            "excavation",
+            "plumbing"
+        ]
+    },
+    {
+        "name": "Yabox",
+        "city": "Bremen",
+        "services": [
+            "demolition",
+            "excavation"
+        ]
+    },
+    {
+        "name": "Kwilith",
+        "city": "Leipzig",
+        "services": [
+            "electrical",
+            "excavation"
+        ]
+    },
+    {
+        "name": "Meeveo",
+        "city": "Wuppertal",
+        "services": [
+            "electrical",
+            "excavation",
+            "plumbing",
+            "sewage"
+        ]
+    },
+    {
+        "name": "Yacero",
+        "city": "Leipzig",
+        "services": [
+            "demolition",
+            "electrical"
+        ]
+    },
+    {
+        "name": "Divavu",
+        "city": "Hannover",
+        "services": [
+            "electrical",
+            "excavation",
+            "plumbing",
+            "sewage"
+        ]
+    },
+    {
+        "name": "Kaymbo",
+        "city": "Essen",
+        "services": [
+            "electrical",
+            "excavation",
+            "sewage"
+        ]
+    },
+    {
+        "name": "Realmix",
+        "city": "Dortmund",
+        "services": [
+            "demolition",
+            "excavation",
+            "plumbing"
+        ]
+    },
+    {
+        "name": "Mymm",
+        "city": "München",
+        "services": [
+            "electrical",
+            "excavation",
+            "plumbing",
+            "sewage"
+        ]
+    },
+    {
+        "name": "Eayo",
+        "city": "Wuppertal",
+        "services": [
+            "excavation",
+            "plumbing",
+            "sewage"
+        ]
+    },
+    {
+        "name": "Camimbo",
+        "city": "Frankfurt",
+        "services": [
+            "demolition",
+            "excavation",
+            "plumbing",
+            "sewage"
+        ]
+    },
+    {
+        "name": "Zoomzone",
+        "city": "Köln",
+        "services": [
+            "electrical",
+            "excavation"
+        ]
+    },
+    {
+        "name": "Yozio",
+        "city": "Essen",
+        "services": [
+            "demolition",
+            "electrical",
+            "excavation",
+            "plumbing",
+            "sewage"
+        ]
+    },
+    {
+        "name": "Thoughtblab",
+        "city": "Nürnberg",
+        "services": [
+            "plumbing",
+            "sewage"
+        ]
+    },
+    {
+        "name": "Avamba",
+        "city": "Stuttgart",
+        "services": [
+            "demolition",
+            "excavation",
+            "plumbing"
+        ]
+    },
+    {
+        "name": "Tanoodle",
+        "city": "Bochum",
+        "services": [
+            "demolition",
+            "electrical",
+            "excavation",
+            "plumbing",
+            "sewage"
+        ]
+    },
+    {
+        "name": "Eazzy",
+        "city": "Bielefeld",
+        "services": [
+            "electrical",
+            "plumbing"
+        ]
+    },
+    {
+        "name": "Gigashots",
+        "city": "Düsseldorf",
+        "services": [
+            "electrical",
+            "excavation",
+            "plumbing"
+        ]
+    },
+    {
+        "name": "Tekfly",
+        "city": "Bonn",
+        "services": [
+            "demolition",
+            "electrical",
+            "excavation",
+            "plumbing",
+            "sewage"
+        ]
+    },
+    {
+        "name": "Flipopia",
+        "city": "Frankfurt",
+        "services": [
+            "demolition",
+            "electrical",
+            "excavation",
+            "sewage"
+        ]
+    },
+    {
+        "name": "Oyoba",
+        "city": "Duisburg",
+        "services": [
+            "demolition",
+            "excavation"
+        ]
+    },
+    {
+        "name": "Feedspan",
+        "city": "Frankfurt",
+        "services": [
+            "demolition",
+            "electrical",
+            "excavation"
+        ]
+    },
+    {
+        "name": "Youspan",
+        "city": "Bielefeld",
+        "services": [
+            "demolition",
+            "sewage"
+        ]
+    },
+    {
+        "name": "Pixonyx",
+        "city": "Düsseldorf",
+        "services": [
+            "demolition",
+            "plumbing"
+        ]
+    },
+    {
+        "name": "Skyvu",
+        "city": "Berlin",
+        "services": [
+            "demolition",
+            "electrical"
+        ]
+    },
+    {
+        "name": "Wikibox",
+        "city": "Dortmund",
+        "services": [
+            "electrical",
+            "excavation",
+            "sewage"
+        ]
+    },
+    {
+        "name": "Eidel",
+        "city": "Wuppertal",
+        "services": [
+            "electrical",
+            "excavation",
+            "plumbing",
+            "sewage"
+        ]
+    },
+    {
+        "name": "Gigaclub",
+        "city": "Hannover",
+        "services": [
+            "demolition",
+            "electrical",
+            "excavation",
+            "plumbing"
+        ]
+    },
+    {
+        "name": "Kwimbee",
+        "city": "Düsseldorf",
+        "services": [
+            "demolition",
+            "electrical",
+            "excavation",
+            "plumbing"
+        ]
+    },
+    {
+        "name": "Skaboo",
+        "city": "Bochum",
+        "services": [
+            "electrical",
+            "plumbing",
+            "sewage"
+        ]
+    },
+    {
+        "name": "Flashspan",
+        "city": "Köln",
+        "services": [
+            "electrical",
+            "excavation",
+            "plumbing"
+        ]
+    },
+    {
+        "name": "Voonix",
+        "city": "Dortmund",
+        "services": [
+            "demolition",
+            "electrical",
+            "excavation",
+            "plumbing",
+            "sewage"
+        ]
+    },
+    {
+        "name": "Thoughtsphere",
+        "city": "Stuttgart",
+        "services": [
+            "demolition",
+            "excavation",
+            "plumbing"
+        ]
+    },
+    {
+        "name": "Bubbletube",
+        "city": "Nürnberg",
+        "services": [
+            "demolition",
+            "sewage"
+        ]
+    },
+    {
+        "name": "Camido",
+        "city": "Wuppertal",
+        "services": [
+            "demolition",
+            "excavation",
+            "plumbing"
+        ]
+    },
+    {
+        "name": "Topicware",
+        "city": "München",
+        "services": [
+            "demolition",
+            "electrical",
+            "excavation",
+            "plumbing"
+        ]
+    },
+    {
+        "name": "Twimm",
+        "city": "Bremen",
+        "services": [
+            "excavation",
+            "plumbing"
+        ]
+    },
+    {
+        "name": "Fatz",
+        "city": "Hamburg",
+        "services": [
+            "electrical",
+            "plumbing",
+            "sewage"
+        ]
+    },
+    {
+        "name": "Tazzy",
+        "city": "München",
+        "services": [
+            "electrical",
+            "excavation",
+            "plumbing",
+            "sewage"
+        ]
+    },
+    {
+        "name": "Lazzy",
+        "city": "Bielefeld",
+        "services": [
+            "electrical"
+        ]
+    },
+    {
+        "name": "Jaxnation",
+        "city": "Essen",
+        "services": [
+            "demolition",
+            "electrical",
+            "excavation",
+            "plumbing",
+            "sewage"
+        ]
+    },
+    {
+        "name": "Yodo",
+        "city": "Hannover",
+        "services": [
+            "demolition",
+            "electrical",
+            "plumbing",
+            "sewage"
+        ]
+    },
+    {
+        "name": "Wikido",
+        "city": "Dresden",
+        "services": [
+            "demolition",
+            "electrical",
+            "excavation"
+        ]
+    },
+    {
+        "name": "Bubblebox",
+        "city": "Köln",
+        "services": [
+            "electrical",
+            "excavation",
+            "plumbing",
+            "sewage"
+        ]
+    },
+    {
+        "name": "Riffpedia",
+        "city": "Hamburg",
+        "services": [
+            "electrical",
+            "plumbing"
+        ]
+    },
+    {
+        "name": "Linkbridge",
+        "city": "Hannover",
+        "services": [
+            "electrical",
+            "excavation",
+            "plumbing"
+        ]
+    },
+    {
+        "name": "Muxo",
+        "city": "Hannover",
+        "services": [
+            "electrical",
+            "excavation",
+            "sewage"
+        ]
+    },
+    {
+        "name": "Mydeo",
+        "city": "Bochum",
+        "services": [
+            "demolition",
+            "electrical",
+            "excavation",
+            "plumbing",
+            "sewage"
+        ]
+    },
+    {
+        "name": "Thoughtstorm",
+        "city": "Dortmund",
+        "services": [
+            "demolition",
+            "excavation",
+            "sewage"
+        ]
+    },
+    {
+        "name": "Ozu",
+        "city": "Frankfurt",
+        "services": [
+            "electrical",
+            "excavation",
+            "sewage"
+        ]
+    },
+    {
+        "name": "Thoughtbeat",
+        "city": "Berlin",
+        "services": [
+            "demolition",
+            "electrical",
+            "sewage"
+        ]
+    },
+    {
+        "name": "Edgewire",
+        "city": "Stuttgart",
+        "services": [
+            "electrical",
+            "plumbing"
+        ]
+    },
+    {
+        "name": "Babblestorm",
+        "city": "Dresden",
+        "services": [
+            "demolition",
+            "electrical"
+        ]
+    },
+    {
+        "name": "Twitternation",
+        "city": "Leipzig",
+        "services": [
+            "demolition",
+            "electrical",
+            "excavation",
+            "plumbing",
+            "sewage"
+        ]
+    },
+    {
+        "name": "Layo",
+        "city": "Nürnberg",
+        "services": [
+            "demolition",
+            "electrical",
+            "sewage"
+        ]
+    },
+    {
+        "name": "Devbug",
+        "city": "Dortmund",
+        "services": [
+            "excavation",
+            "plumbing",
+            "sewage"
+        ]
+    },
+    {
+        "name": "Zooxo",
+        "city": "Wuppertal",
+        "services": [
+            "demolition",
+            "electrical",
+            "excavation",
+            "plumbing"
+        ]
+    },
+    {
+        "name": "Voolia",
+        "city": "Berlin",
+        "services": [
+            "excavation",
+            "plumbing"
+        ]
+    },
+    {
+        "name": "Shuffletag",
+        "city": "Duisburg",
+        "services": [
+            "excavation",
+            "sewage"
+        ]
+    },
+    {
+        "name": "Brightdog",
+        "city": "Frankfurt",
+        "services": [
+            "demolition",
+            "excavation",
+            "plumbing",
+            "sewage"
+        ]
+    },
+    {
+        "name": "Skiptube",
+        "city": "Nürnberg",
+        "services": [
+            "demolition",
+            "excavation",
+            "sewage"
+        ]
+    },
+    {
+        "name": "Yodoo",
+        "city": "Düsseldorf",
+        "services": [
+            "electrical",
+            "excavation",
+            "plumbing"
+        ]
+    },
+    {
+        "name": "Pixoboo",
+        "city": "Dortmund",
+        "services": [
+            "electrical",
+            "excavation",
+            "sewage"
+        ]
+    },
+    {
+        "name": "Einti",
+        "city": "Nürnberg",
+        "services": [
+            "demolition",
+            "excavation",
+            "plumbing",
+            "sewage"
+        ]
+    },
+    {
+        "name": "Skiba",
+        "city": "Berlin",
+        "services": [
+            "electrical",
+            "plumbing",
+            "sewage"
+        ]
+    },
+    {
+        "name": "Fivebridge",
+        "city": "Frankfurt",
+        "services": [
+            "demolition",
+            "electrical",
+            "plumbing"
+        ]
+    },
+    {
+        "name": "Ntag",
+        "city": "Dresden",
+        "services": [
+            "electrical",
+            "excavation"
+        ]
+    },
+    {
+        "name": "Skidoo",
+        "city": "Duisburg",
+        "services": [
+            "excavation",
+            "plumbing"
+        ]
+    },
+    {
+        "name": "Trilith",
+        "city": "Düsseldorf",
+        "services": [
+            "plumbing"
+        ]
+    },
+    {
+        "name": "Topiclounge",
+        "city": "Bonn",
+        "services": [
+            "demolition",
+            "plumbing",
+            "sewage"
+        ]
+    },
+    {
+        "name": "Brightbean",
+        "city": "Dresden",
+        "services": [
+            "demolition",
+            "excavation",
+            "plumbing",
+            "sewage"
+        ]
+    },
+    {
+        "name": "Kayveo",
+        "city": "Düsseldorf",
+        "services": [
+            "electrical",
+            "excavation",
+            "plumbing",
+            "sewage"
+        ]
+    },
+    {
+        "name": "Snaptags",
+        "city": "München",
+        "services": [
+            "electrical",
+            "excavation",
+            "sewage"
+        ]
+    },
+    {
+        "name": "Vinte",
+        "city": "Bochum",
+        "services": [
+            "demolition",
+            "excavation",
+            "plumbing"
+        ]
+    },
+    {
+        "name": "Eare",
+        "city": "Essen",
+        "services": [
+            "electrical",
+            "excavation",
+            "plumbing"
+        ]
+    },
+    {
+        "name": "Voomm",
+        "city": "Hannover",
+        "services": [
+            "electrical",
+            "plumbing",
+            "sewage"
+        ]
+    },
+    {
+        "name": "Kwideo",
+        "city": "Dortmund",
+        "services": [
+            "electrical",
+            "excavation"
+        ]
+    },
+    {
+        "name": "Zava",
+        "city": "Bremen",
+        "services": [
+            "demolition",
+            "electrical",
+            "plumbing"
+        ]
+    },
+    {
+        "name": "Brainsphere",
+        "city": "Nürnberg",
+        "services": [
+            "sewage"
+        ]
+    },
+    {
+        "name": "Wikizz",
+        "city": "Stuttgart",
+        "services": [
+            "demolition",
+            "electrical",
+            "excavation",
+            "plumbing"
+        ]
+    },
+    {
+        "name": "Oba",
+        "city": "Wuppertal",
+        "services": [
+            "demolition",
+            "excavation",
+            "plumbing",
+            "sewage"
+        ]
+    },
+    {
+        "name": "Blogpad",
+        "city": "Leipzig",
+        "services": [
+            "demolition",
+            "electrical",
+            "excavation",
+            "plumbing",
+            "sewage"
+        ]
+    },
+    {
+        "name": "Meezzy",
+        "city": "Essen",
+        "services": [
+            "demolition"
+        ]
+    },
+    {
+        "name": "Minyx",
+        "city": "Dortmund",
+        "services": [
+            "demolition",
+            "electrical",
+            "plumbing"
+        ]
+    },
+    {
+        "name": "Meembee",
+        "city": "Berlin",
+        "services": [
+            "electrical",
+            "sewage"
+        ]
+    },
+    {
+        "name": "Buzzbean",
+        "city": "Hamburg",
+        "services": [
+            "demolition",
+            "excavation"
+        ]
+    },
+    {
+        "name": "Jaxworks",
+        "city": "Berlin",
+        "services": [
+            "demolition",
+            "electrical",
+            "plumbing",
+            "sewage"
+        ]
+    },
+    {
+        "name": "Quatz",
+        "city": "Bielefeld",
+        "services": [
+            "electrical",
+            "excavation"
+        ]
+    },
+    {
+        "name": "Myworks",
+        "city": "Düsseldorf",
+        "services": [
+            "electrical",
+            "excavation",
+            "plumbing",
+            "sewage"
+        ]
+    },
+    {
+        "name": "Realpoint",
+        "city": "Hamburg",
+        "services": [
+            "excavation",
+            "plumbing"
+        ]
+    },
+    {
+        "name": "Centizu",
+        "city": "Hannover",
+        "services": [
+            "demolition",
+            "excavation",
+            "plumbing",
+            "sewage"
+        ]
+    },
+    {
+        "name": "Wordtune",
+        "city": "München",
+        "services": [
+            "plumbing"
+        ]
+    },
+    {
+        "name": "Gigazoom",
+        "city": "Leipzig",
+        "services": [
+            "excavation",
+            "plumbing"
+        ]
+    },
+    {
+        "name": "Leexo",
+        "city": "Duisburg",
+        "services": [
+            "demolition",
+            "electrical",
+            "excavation",
+            "plumbing",
+            "sewage"
+        ]
+    },
+    {
+        "name": "Devpoint",
+        "city": "Dortmund",
+        "services": [
+            "demolition",
+            "excavation",
+            "sewage"
+        ]
+    },
+    {
+        "name": "Skilith",
+        "city": "Dortmund",
+        "services": [
+            "demolition",
+            "electrical",
+            "sewage"
+        ]
+    },
+    {
+        "name": "Centimia",
+        "city": "Bielefeld",
+        "services": [
+            "demolition",
+            "electrical"
+        ]
+    },
+    {
+        "name": "Mydo",
+        "city": "Nürnberg",
+        "services": [
+            "demolition",
+            "electrical",
+            "sewage"
+        ]
+    },
+    {
+        "name": "Tagpad",
+        "city": "München",
+        "services": [
+            "electrical",
+            "excavation",
+            "sewage"
+        ]
+    },
+    {
+        "name": "Digitube",
+        "city": "Hamburg",
+        "services": [
+            "demolition",
+            "excavation"
+        ]
+    },
+    {
+        "name": "Kazu",
+        "city": "Bielefeld",
+        "services": [
+            "electrical",
+            "excavation",
+            "plumbing",
+            "sewage"
+        ]
+    },
+    {
+        "name": "Photospace",
+        "city": "Nürnberg",
+        "services": [
+            "demolition",
+            "electrical",
+            "excavation",
+            "plumbing",
+            "sewage"
+        ]
+    },
+    {
+        "name": "Centidel",
+        "city": "Bielefeld",
+        "services": [
+            "demolition",
+            "electrical",
+            "excavation",
+            "plumbing",
+            "sewage"
+        ]
+    },
+    {
+        "name": "Vipe",
+        "city": "Bremen",
+        "services": [
+            "demolition",
+            "electrical",
+            "excavation"
+        ]
+    },
+    {
+        "name": "Skynoodle",
+        "city": "Frankfurt",
+        "services": [
+            "demolition",
+            "electrical",
+            "plumbing",
+            "sewage"
+        ]
+    },
+    {
+        "name": "Photojam",
+        "city": "Bielefeld",
+        "services": [
+            "excavation",
+            "plumbing",
+            "sewage"
+        ]
+    },
+    {
+        "name": "Feedmix",
+        "city": "Nürnberg",
+        "services": [
+            "demolition",
+            "excavation",
+            "sewage"
+        ]
+    },
+    {
+        "name": "Edgeify",
+        "city": "Hannover",
+        "services": [
+            "plumbing",
+            "sewage"
+        ]
+    },
+    {
+        "name": "Fiveclub",
+        "city": "Duisburg",
+        "services": [
+            "demolition",
+            "excavation",
+            "plumbing",
+            "sewage"
+        ]
+    },
+    {
+        "name": "Twiyo",
+        "city": "Köln",
+        "services": [
+            "demolition",
+            "electrical",
+            "plumbing",
+            "sewage"
+        ]
+    },
+    {
+        "name": "Nlounge",
+        "city": "Dortmund",
+        "services": [
+            "demolition",
+            "plumbing",
+            "sewage"
+        ]
+    },
+    {
+        "name": "Yakitri",
+        "city": "Hamburg",
+        "services": [
+            "demolition",
+            "electrical",
+            "sewage"
+        ]
+    },
+    {
+        "name": "Topicblab",
+        "city": "Dresden",
+        "services": [
+            "excavation",
+            "sewage"
+        ]
+    },
+    {
+        "name": "Quamba",
+        "city": "Frankfurt",
+        "services": [
+            "demolition",
+            "electrical",
+            "plumbing"
+        ]
+    },
+    {
+        "name": "Dazzlesphere",
+        "city": "Frankfurt",
+        "services": [
+            "demolition",
+            "plumbing"
+        ]
+    },
+    {
+        "name": "Trudoo",
+        "city": "Bielefeld",
+        "services": [
+            "electrical",
+            "excavation",
+            "sewage"
+        ]
+    },
+    {
+        "name": "Yoveo",
+        "city": "Düsseldorf",
+        "services": [
+            "electrical",
+            "excavation",
+            "plumbing"
+        ]
+    },
+    {
+        "name": "Skivee",
+        "city": "Bielefeld",
+        "services": [
+            "demolition",
+            "plumbing",
+            "sewage"
+        ]
+    },
+    {
+        "name": "Tagchat",
+        "city": "Bielefeld",
+        "services": [
+            "demolition",
+            "electrical",
+            "sewage"
+        ]
+    },
+    {
+        "name": "Twimbo",
+        "city": "Berlin",
+        "services": [
+            "demolition",
+            "excavation",
+            "plumbing",
+            "sewage"
+        ]
+    },
+    {
+        "name": "Vidoo",
+        "city": "Nürnberg",
+        "services": [
+            "electrical",
+            "excavation"
+        ]
+    },
+    {
+        "name": "Tambee",
+        "city": "Bielefeld",
+        "services": [
+            "demolition",
+            "electrical",
+            "excavation",
+            "sewage"
+        ]
+    },
+    {
+        "name": "Ntags",
+        "city": "Bremen",
+        "services": [
+            "demolition",
+            "electrical",
+            "plumbing",
+            "sewage"
+        ]
+    },
+    {
+        "name": "Janyx",
+        "city": "Hamburg",
+        "services": [
+            "demolition",
+            "electrical",
+            "excavation",
+            "sewage"
+        ]
+    },
+    {
+        "name": "Feedfire",
+        "city": "Wuppertal",
+        "services": [
+            "demolition",
+            "electrical",
+            "excavation"
+        ]
+    },
+    {
+        "name": "Skinder",
+        "city": "Stuttgart",
+        "services": [
+            "demolition",
+            "sewage"
+        ]
+    },
+    {
+        "name": "Quimba",
+        "city": "Nürnberg",
+        "services": [
+            "demolition",
+            "plumbing",
+            "sewage"
+        ]
+    },
+    {
+        "name": "Oozz",
+        "city": "Hannover",
+        "services": [
+            "demolition",
+            "electrical",
+            "plumbing"
+        ]
+    },
+    {
+        "name": "Trudeo",
+        "city": "Essen",
+        "services": [
+            "demolition",
+            "plumbing",
+            "sewage"
+        ]
+    },
+    {
+        "name": "Edgepulse",
+        "city": "Hannover",
+        "services": [
+            "demolition",
+            "electrical",
+            "excavation"
+        ]
+    },
+    {
+        "name": "Riffwire",
+        "city": "Nürnberg",
+        "services": [
+            "demolition",
+            "excavation",
+            "sewage"
+        ]
+    },
+    {
+        "name": "Aimbu",
+        "city": "Köln",
+        "services": [
+            "demolition",
+            "electrical",
+            "sewage"
+        ]
+    },
+    {
+        "name": "Oloo",
+        "city": "Hamburg",
+        "services": [
+            "excavation",
+            "plumbing"
+        ]
+    },
+    {
+        "name": "Miboo",
+        "city": "Duisburg",
+        "services": [
+            "electrical",
+            "excavation"
+        ]
+    },
+    {
+        "name": "Youbridge",
+        "city": "Stuttgart",
+        "services": [
+            "demolition",
+            "electrical",
+            "excavation",
+            "plumbing"
+        ]
+    },
+    {
+        "name": "BlogXS",
+        "city": "Dresden",
+        "services": [
+            "demolition",
+            "electrical",
+            "plumbing"
+        ]
+    },
+    {
+        "name": "Kanoodle",
+        "city": "Essen",
+        "services": [
+            "demolition",
+            "excavation",
+            "plumbing"
+        ]
+    },
+    {
+        "name": "Yombu",
+        "city": "Duisburg",
+        "services": [
+            "demolition",
+            "electrical",
+            "excavation",
+            "plumbing"
+        ]
+    },
+    {
+        "name": "Yakidoo",
+        "city": "Hannover",
+        "services": [
+            "demolition",
+            "plumbing",
+            "sewage"
+        ]
+    },
+    {
+        "name": "Skyndu",
+        "city": "Dortmund",
+        "services": [
+            "demolition",
+            "excavation",
+            "plumbing",
+            "sewage"
+        ]
+    },
+    {
+        "name": "Blogtag",
+        "city": "Nürnberg",
+        "services": [
+            "demolition",
+            "electrical",
+            "excavation",
+            "plumbing"
+        ]
+    },
+    {
+        "name": "Twinte",
+        "city": "Dresden",
+        "services": [
+            "demolition",
+            "electrical",
+            "excavation"
+        ]
+    },
+    {
+        "name": "Topicstorm",
+        "city": "München",
+        "services": [
+            "excavation",
+            "plumbing"
+        ]
+    },
+    {
+        "name": "Jaloo",
+        "city": "Duisburg",
+        "services": [
+            "demolition",
+            "electrical",
+            "excavation",
+            "plumbing"
+        ]
+    },
+    {
+        "name": "Edgeblab",
+        "city": "Bochum",
+        "services": [
+            "demolition",
+            "excavation",
+            "plumbing",
+            "sewage"
+        ]
+    },
+    {
+        "name": "Meemm",
+        "city": "Essen",
+        "services": [
+            "excavation",
+            "plumbing",
+            "sewage"
+        ]
+    },
+    {
+        "name": "Photobean",
+        "city": "Bonn",
+        "services": [
+            "demolition",
+            "electrical",
+            "excavation"
+        ]
+    },
+    {
+        "name": "Gabspot",
+        "city": "Düsseldorf",
+        "services": [
+            "demolition",
+            "plumbing",
+            "sewage"
+        ]
+    },
+    {
+        "name": "Eamia",
+        "city": "Essen",
+        "services": [
+            "demolition",
+            "excavation",
+            "plumbing"
+        ]
+    },
+    {
+        "name": "Youfeed",
+        "city": "Stuttgart",
+        "services": [
+            "electrical",
+            "excavation",
+            "plumbing",
+            "sewage"
+        ]
+    },
+    {
+        "name": "Aimbo",
+        "city": "Leipzig",
+        "services": [
+            "demolition",
+            "electrical",
+            "plumbing",
+            "sewage"
+        ]
+    },
+    {
+        "name": "Eabox",
+        "city": "Bremen",
+        "services": [
+            "electrical",
+            "plumbing",
+            "sewage"
+        ]
+    },
+    {
+        "name": "Browsedrive",
+        "city": "Leipzig",
+        "services": [
+            "demolition",
+            "electrical",
+            "plumbing"
+        ]
+    },
+    {
+        "name": "Jamia",
+        "city": "Dortmund",
+        "services": [
+            "electrical",
+            "excavation"
+        ]
+    },
+    {
+        "name": "Yamia",
+        "city": "Bielefeld",
+        "services": [
+            "sewage"
+        ]
+    },
+    {
+        "name": "Dabfeed",
+        "city": "Wuppertal",
+        "services": [
+            "demolition",
+            "electrical",
+            "excavation",
+            "plumbing"
+        ]
+    },
+    {
+        "name": "Midel",
+        "city": "Dortmund",
+        "services": [
+            "demolition",
+            "electrical"
+        ]
+    },
+    {
+        "name": "Jazzy",
+        "city": "Leipzig",
+        "services": [
+            "demolition",
+            "plumbing",
+            "sewage"
+        ]
+    },
+    {
+        "name": "Zoozzy",
+        "city": "Essen",
+        "services": [
+            "demolition",
+            "electrical",
+            "plumbing",
+            "sewage"
+        ]
+    },
+    {
+        "name": "Linkbuzz",
+        "city": "Hamburg",
+        "services": [
+            "demolition",
+            "electrical",
+            "excavation",
+            "plumbing"
+        ]
+    },
+    {
+        "name": "Jaxbean",
+        "city": "Düsseldorf",
+        "services": [
+            "demolition",
+            "plumbing",
+            "sewage"
+        ]
+    },
+    {
+        "name": "Wordpedia",
+        "city": "Leipzig",
+        "services": [
+            "demolition",
+            "electrical",
+            "excavation"
+        ]
+    },
+    {
+        "name": "Twitterlist",
+        "city": "Dresden",
+        "services": [
+            "electrical",
+            "sewage"
+        ]
+    },
+    {
+        "name": "Demivee",
+        "city": "Hamburg",
+        "services": [
+            "excavation",
+            "plumbing",
+            "sewage"
+        ]
+    },
+    {
+        "name": "Zoombeat",
+        "city": "Düsseldorf",
+        "services": [
+            "demolition",
+            "electrical",
+            "excavation"
+        ]
+    },
+    {
+        "name": "Realblab",
+        "city": "Nürnberg",
+        "services": [
+            "electrical",
+            "excavation"
+        ]
+    },
+    {
+        "name": "Devify",
+        "city": "Nürnberg",
+        "services": [
+            "excavation"
+        ]
+    },
+    {
+        "name": "Feedbug",
+        "city": "München",
+        "services": [
+            "demolition",
+            "electrical",
+            "excavation",
+            "plumbing",
+            "sewage"
+        ]
+    },
+    {
+        "name": "Cogibox",
+        "city": "Bielefeld",
+        "services": [
+            "demolition",
+            "excavation",
+            "plumbing",
+            "sewage"
+        ]
+    },
+    {
+        "name": "Babbleblab",
+        "city": "Dresden",
+        "services": [
+            "demolition",
+            "electrical",
+            "excavation",
+            "sewage"
+        ]
+    },
+    {
+        "name": "Avaveo",
+        "city": "Wuppertal",
+        "services": [
+            "demolition",
+            "excavation",
+            "plumbing"
+        ]
+    },
+    {
+        "name": "Babbleset",
+        "city": "Leipzig",
+        "services": [
+            "electrical",
+            "sewage"
+        ]
+    },
+    {
+        "name": "Katz",
+        "city": "Bremen",
+        "services": [
+            "demolition",
+            "electrical",
+            "excavation",
+            "sewage"
+        ]
+    },
+    {
+        "name": "Zoombox",
+        "city": "Bielefeld",
+        "services": [
+            "excavation",
+            "plumbing",
+            "sewage"
+        ]
+    },
+    {
+        "name": "Skippad",
+        "city": "Köln",
+        "services": [
+            "demolition",
+            "excavation",
+            "plumbing",
+            "sewage"
+        ]
+    },
+    {
+        "name": "DabZ",
+        "city": "Dresden",
+        "services": [
+            "demolition",
+            "electrical",
+            "excavation",
+            "plumbing",
+            "sewage"
+        ]
+    },
+    {
+        "name": "Livetube",
+        "city": "Wuppertal",
+        "services": [
+            "demolition",
+            "electrical",
+            "excavation",
+            "plumbing"
+        ]
+    },
+    {
+        "name": "Linklinks",
+        "city": "Essen",
+        "services": [
+            "electrical",
+            "plumbing",
+            "sewage"
+        ]
+    },
+    {
+        "name": "Tagfeed",
+        "city": "Duisburg",
+        "services": [
+            "demolition",
+            "electrical",
+            "sewage"
+        ]
+    },
+    {
+        "name": "Blognation",
+        "city": "Bielefeld",
+        "services": [
+            "electrical",
+            "excavation",
+            "plumbing"
+        ]
+    },
+    {
+        "name": "Shuffledrive",
+        "city": "Essen",
+        "services": [
+            "electrical"
+        ]
+    },
+    {
+        "name": "Omba",
+        "city": "Köln",
+        "services": [
+            "electrical",
+            "excavation",
+            "plumbing",
+            "sewage"
+        ]
+    },
+    {
+        "name": "Shufflebeat",
+        "city": "Hannover",
+        "services": [
+            "plumbing",
+            "sewage"
+        ]
+    },
+    {
+        "name": "Skyba",
+        "city": "Düsseldorf",
+        "services": [
+            "demolition",
+            "excavation",
+            "plumbing"
+        ]
+    },
+    {
+        "name": "Zazio",
+        "city": "Bochum",
+        "services": [
+            "demolition"
+        ]
+    },
+    {
+        "name": "Agivu",
+        "city": "Bremen",
+        "services": [
+            "demolition",
+            "sewage"
+        ]
+    },
+    {
+        "name": "Gabtype",
+        "city": "Frankfurt",
+        "services": [
+            "excavation",
+            "plumbing"
+        ]
+    },
+    {
+        "name": "Brainlounge",
+        "city": "München",
+        "services": [
+            "electrical",
+            "excavation",
+            "plumbing",
+            "sewage"
+        ]
+    },
+    {
+        "name": "Thoughtworks",
+        "city": "Bremen",
+        "services": [
+            "demolition",
+            "excavation",
+            "sewage"
+        ]
+    },
+    {
+        "name": "Ailane",
+        "city": "Frankfurt",
+        "services": [
+            "demolition",
+            "electrical",
+            "excavation",
+            "sewage"
+        ]
+    },
+    {
+        "name": "Dabtype",
+        "city": "Duisburg",
+        "services": [
+            "excavation",
+            "sewage"
+        ]
+    },
+    {
+        "name": "Abatz",
+        "city": "Wuppertal",
+        "services": [
+            "electrical",
+            "excavation",
+            "plumbing"
+        ]
+    },
+    {
+        "name": "Trunyx",
+        "city": "Duisburg",
+        "services": [
+            "demolition",
+            "electrical",
+            "excavation",
+            "sewage"
+        ]
+    },
+    {
+        "name": "Voonte",
+        "city": "Frankfurt",
+        "services": [
+            "demolition",
+            "electrical",
+            "plumbing"
+        ]
+    },
+    {
+        "name": "Youtags",
+        "city": "Dortmund",
+        "services": [
+            "electrical",
+            "plumbing"
+        ]
+    },
+    {
+        "name": "Innojam",
+        "city": "Köln",
+        "services": [
+            "excavation",
+            "sewage"
+        ]
+    },
+    {
+        "name": "Fivechat",
+        "city": "Bochum",
+        "services": [
+            "electrical",
+            "plumbing",
+            "sewage"
+        ]
+    },
+    {
+        "name": "Skajo",
+        "city": "Nürnberg",
+        "services": [
+            "electrical",
+            "plumbing"
+        ]
+    },
+    {
+        "name": "Dynazzy",
+        "city": "Leipzig",
+        "services": [
+            "demolition",
+            "electrical",
+            "excavation",
+            "plumbing",
+            "sewage"
+        ]
+    },
+    {
+        "name": "Skinix",
+        "city": "Bielefeld",
+        "services": [
+            "demolition",
+            "electrical",
+            "plumbing"
+        ]
+    },
+    {
+        "name": "Photobug",
+        "city": "Essen",
+        "services": [
+            "plumbing"
+        ]
+    },
+    {
+        "name": "Meedoo",
+        "city": "Bonn",
+        "services": [
+            "electrical",
+            "plumbing",
+            "sewage"
+        ]
+    },
+    {
+        "name": "Devcast",
+        "city": "Hannover",
+        "services": [
+            "demolition",
+            "electrical",
+            "excavation"
+        ]
+    },
+    {
+        "name": "Dynabox",
+        "city": "Hamburg",
+        "services": [
+            "demolition",
+            "electrical",
+            "excavation",
+            "sewage"
+        ]
+    },
+    {
+        "name": "Jatri",
+        "city": "Leipzig",
+        "services": [
+            "demolition",
+            "electrical",
+            "excavation",
+            "plumbing"
+        ]
+    },
+    {
+        "name": "Skipfire",
+        "city": "Hannover",
+        "services": [
+            "demolition",
+            "excavation",
+            "plumbing",
+            "sewage"
+        ]
+    },
+    {
+        "name": "Twitterworks",
+        "city": "Düsseldorf",
+        "services": [
+            "electrical",
+            "excavation"
+        ]
+    },
+    {
+        "name": "Photofeed",
+        "city": "Wuppertal",
+        "services": [
+            "electrical",
+            "excavation",
+            "plumbing"
+        ]
+    },
+    {
+        "name": "Abata",
+        "city": "Düsseldorf",
+        "services": [
+            "demolition",
+            "plumbing",
+            "sewage"
+        ]
+    },
+    {
+        "name": "Realcube",
+        "city": "Bochum",
+        "services": [
+            "demolition",
+            "electrical",
+            "plumbing",
+            "sewage"
+        ]
+    },
+    {
+        "name": "Quimm",
+        "city": "Berlin",
+        "services": [
+            "plumbing",
+            "sewage"
+        ]
+    },
+    {
+        "name": "Skyble",
+        "city": "Nürnberg",
+        "services": [
+            "excavation",
+            "plumbing"
+        ]
+    },
+    {
+        "name": "Jabberstorm",
+        "city": "Hannover",
+        "services": [
+            "demolition",
+            "electrical",
+            "excavation"
+        ]
+    },
+    {
+        "name": "Feednation",
+        "city": "Düsseldorf",
+        "services": [
+            "electrical",
+            "excavation",
+            "sewage"
+        ]
+    },
+    {
+        "name": "Lajo",
+        "city": "Duisburg",
+        "services": [
+            "electrical",
+            "excavation",
+            "plumbing",
+            "sewage"
+        ]
+    },
+    {
+        "name": "Avavee",
+        "city": "Dortmund",
+        "services": [
+            "electrical",
+            "excavation"
+        ]
+    },
+    {
+        "name": "Kazio",
+        "city": "Stuttgart",
+        "services": [
+            "demolition",
+            "electrical"
+        ]
+    },
+    {
+        "name": "Cogilith",
+        "city": "Köln",
+        "services": [
+            "electrical",
+            "excavation"
+        ]
+    },
+    {
+        "name": "Tavu",
+        "city": "Bochum",
+        "services": [
+            "electrical",
+            "excavation",
+            "plumbing"
+        ]
+    },
+    {
+        "name": "Voolith",
+        "city": "Düsseldorf",
+        "services": [
+            "electrical",
+            "excavation"
+        ]
+    },
+    {
+        "name": "Gevee",
+        "city": "Nürnberg",
+        "services": [
+            "excavation"
+        ]
+    },
+    {
+        "name": "Brainverse",
+        "city": "Leipzig",
+        "services": [
+            "electrical",
+            "plumbing",
+            "sewage"
+        ]
+    },
+    {
+        "name": "Zoomcast",
+        "city": "Frankfurt",
+        "services": [
+            "demolition",
+            "electrical",
+            "excavation",
+            "sewage"
+        ]
+    },
+    {
+        "name": "Oyondu",
+        "city": "Stuttgart",
+        "services": [
+            "demolition",
+            "electrical",
+            "sewage"
+        ]
+    },
+    {
+        "name": "Npath",
+        "city": "Essen",
+        "services": [
+            "demolition",
+            "electrical",
+            "plumbing",
+            "sewage"
+        ]
+    },
+    {
+        "name": "Oyope",
+        "city": "Dresden",
+        "services": [
+            "demolition",
+            "excavation",
+            "plumbing",
+            "sewage"
+        ]
+    },
+    {
+        "name": "Gabcube",
+        "city": "München",
+        "services": [
+            "demolition",
+            "electrical"
+        ]
+    },
+    {
+        "name": "Mynte",
+        "city": "Bielefeld",
+        "services": [
+            "demolition",
+            "electrical",
+            "excavation",
+            "sewage"
+        ]
+    },
+    {
+        "name": "Flashset",
+        "city": "Hannover",
+        "services": [
+            "electrical",
+            "plumbing"
+        ]
+    },
+    {
+        "name": "Browsecat",
+        "city": "Berlin",
+        "services": [
+            "demolition",
+            "excavation",
+            "plumbing",
+            "sewage"
+        ]
+    },
+    {
+        "name": "Zooveo",
+        "city": "Frankfurt",
+        "services": [
+            "excavation",
+            "plumbing"
+        ]
+    },
+    {
+        "name": "Jabbercube",
+        "city": "Dresden",
+        "services": [
+            "demolition",
+            "excavation",
+            "plumbing"
+        ]
+    },
+    {
+        "name": "Browsetype",
+        "city": "Nürnberg",
+        "services": [
+            "electrical",
+            "excavation",
+            "plumbing",
+            "sewage"
+        ]
+    },
+    {
+        "name": "Twitterbeat",
+        "city": "Berlin",
+        "services": [
+            "demolition",
+            "electrical",
+            "plumbing",
+            "sewage"
+        ]
+    },
+    {
+        "name": "Photolist",
+        "city": "Essen",
+        "services": [
+            "electrical",
+            "excavation",
+            "plumbing",
+            "sewage"
+        ]
+    },
+    {
+        "name": "Talane",
+        "city": "Stuttgart",
+        "services": [
+            "demolition",
+            "excavation"
+        ]
+    },
+    {
+        "name": "Wordify",
+        "city": "Dortmund",
+        "services": [
+            "demolition",
+            "sewage"
+        ]
+    },
+    {
+        "name": "Divape",
+        "city": "Hamburg",
+        "services": [
+            "demolition",
+            "excavation"
+        ]
+    },
+    {
+        "name": "Buzzshare",
+        "city": "Bremen",
+        "services": [
+            "demolition",
+            "electrical",
+            "sewage"
+        ]
+    },
+    {
+        "name": "Voonyx",
+        "city": "Wuppertal",
+        "services": [
+            "demolition",
+            "electrical",
+            "excavation",
+            "plumbing",
+            "sewage"
+        ]
+    },
+    {
+        "name": "Kare",
+        "city": "Frankfurt",
+        "services": [
+            "demolition",
+            "electrical"
+        ]
+    },
+    {
+        "name": "Lazz",
+        "city": "Hamburg",
+        "services": [
+            "demolition",
+            "electrical",
+            "sewage"
+        ]
+    },
+    {
+        "name": "Zoomdog",
+        "city": "Wuppertal",
+        "services": [
+            "demolition",
+            "excavation",
+            "sewage"
+        ]
+    },
+    {
+        "name": "Yodel",
+        "city": "Hamburg",
+        "services": [
+            "demolition",
+            "electrical",
+            "excavation",
+            "plumbing",
+            "sewage"
+        ]
+    },
+    {
+        "name": "LiveZ",
+        "city": "Bonn",
+        "services": [
+            "excavation",
+            "plumbing"
+        ]
+    },
+    {
+        "name": "Podcat",
+        "city": "Wuppertal",
+        "services": [
+            "electrical",
+            "excavation",
+            "sewage"
+        ]
+    },
+    {
+        "name": "Yotz",
+        "city": "Stuttgart",
+        "services": [
+            "excavation"
+        ]
+    },
+    {
+        "name": "Topiczoom",
+        "city": "Dortmund",
+        "services": [
+            "demolition",
+            "electrical",
+            "plumbing",
+            "sewage"
+        ]
+    },
+    {
+        "name": "Devshare",
+        "city": "Hamburg",
+        "services": [
+            "demolition",
+            "electrical",
+            "excavation"
+        ]
+    },
+    {
+        "name": "Topicshots",
+        "city": "Leipzig",
+        "services": [
+            "demolition",
+            "electrical",
+            "plumbing",
+            "sewage"
+        ]
+    },
+    {
+        "name": "Demizz",
+        "city": "Duisburg",
+        "services": [
+            "demolition",
+            "electrical",
+            "plumbing",
+            "sewage"
+        ]
+    },
+    {
+        "name": "Tazz",
+        "city": "Duisburg",
+        "services": [
+            "electrical",
+            "excavation",
+            "plumbing"
+        ]
+    },
+    {
+        "name": "Meetz",
+        "city": "Bremen",
+        "services": [
+            "demolition",
+            "plumbing",
+            "sewage"
+        ]
+    },
+    {
+        "name": "Twitterwire",
+        "city": "Dresden",
+        "services": [
+            "electrical",
+            "plumbing",
+            "sewage"
+        ]
+    },
+    {
+        "name": "Rhynyx",
+        "city": "Köln",
+        "services": [
+            "demolition",
+            "excavation",
+            "plumbing"
+        ]
+    },
+    {
+        "name": "Mudo",
+        "city": "Bremen",
+        "services": [
+            "demolition",
+            "electrical",
+            "excavation",
+            "sewage"
+        ]
+    },
+    {
+        "name": "Linktype",
+        "city": "Frankfurt",
+        "services": [
+            "demolition",
+            "electrical",
+            "plumbing",
+            "sewage"
+        ]
+    },
+    {
+        "name": "Rhyzio",
+        "city": "Bremen",
+        "services": [
+            "electrical",
+            "excavation",
+            "sewage"
+        ]
+    },
+    {
+        "name": "Quire",
+        "city": "Berlin",
+        "services": [
+            "demolition",
+            "excavation",
+            "sewage"
+        ]
+    },
+    {
+        "name": "Riffpath",
+        "city": "Nürnberg",
+        "services": [
+            "demolition",
+            "excavation",
+            "plumbing",
+            "sewage"
+        ]
+    },
+    {
+        "name": "Dabjam",
+        "city": "Bremen",
+        "services": [
+            "excavation",
+            "plumbing"
+        ]
+    },
+    {
+        "name": "Edgetag",
+        "city": "Essen",
+        "services": [
+            "electrical",
+            "excavation",
+            "plumbing"
+        ]
+    },
+    {
+        "name": "Roodel",
+        "city": "Frankfurt",
+        "services": [
+            "demolition",
+            "electrical"
+        ]
+    },
+    {
+        "name": "Kamba",
+        "city": "Frankfurt",
+        "services": [
+            "demolition",
+            "electrical",
+            "plumbing",
+            "sewage"
+        ]
+    },
+    {
+        "name": "Buzzster",
+        "city": "Dortmund",
+        "services": [
+            "demolition",
+            "excavation"
+        ]
+    },
+    {
+        "name": "Innotype",
+        "city": "Bielefeld",
+        "services": [
+            "demolition",
+            "plumbing"
+        ]
+    },
+    {
+        "name": "Skimia",
+        "city": "Hamburg",
+        "services": [
+            "electrical",
+            "excavation",
+            "sewage"
+        ]
+    },
+    {
+        "name": "Realbridge",
+        "city": "Wuppertal",
+        "services": [
+            "demolition",
+            "excavation"
+        ]
+    },
+    {
+        "name": "Kwinu",
+        "city": "Bremen",
+        "services": [
+            "electrical",
+            "excavation",
+            "plumbing",
+            "sewage"
+        ]
+    },
+    {
+        "name": "Cogidoo",
+        "city": "Köln",
+        "services": [
+            "demolition",
+            "excavation",
+            "sewage"
+        ]
+    },
+    {
+        "name": "Devpulse",
+        "city": "Essen",
+        "services": [
+            "demolition",
+            "electrical",
+            "excavation",
+            "plumbing",
+            "sewage"
+        ]
+    },
+    {
+        "name": "Thoughtbridge",
+        "city": "München",
+        "services": [
+            "excavation",
+            "sewage"
+        ]
+    },
+    {
+        "name": "Zoomlounge",
+        "city": "Bonn",
+        "services": [
+            "electrical",
+            "excavation",
+            "plumbing",
+            "sewage"
+        ]
+    },
+    {
+        "name": "Yambee",
+        "city": "Hannover",
+        "services": [
+            "electrical",
+            "excavation",
+            "plumbing",
+            "sewage"
+        ]
+    },
+    {
+        "name": "Topdrive",
+        "city": "Duisburg",
+        "services": [
+            "demolition",
+            "excavation",
+            "sewage"
+        ]
+    },
+    {
+        "name": "Jabberbean",
+        "city": "Dresden",
+        "services": [
+            "demolition",
+            "electrical",
+            "sewage"
+        ]
+    },
+    {
+        "name": "Youopia",
+        "city": "Dortmund",
+        "services": [
+            "demolition",
+            "excavation",
+            "plumbing",
+            "sewage"
+        ]
+    },
+    {
+        "name": "Rooxo",
+        "city": "Bielefeld",
+        "services": [
+            "demolition",
+            "electrical",
+            "sewage"
+        ]
+    },
+    {
+        "name": "Reallinks",
+        "city": "Hamburg",
+        "services": [
+            "electrical",
+            "plumbing",
+            "sewage"
+        ]
+    },
+    {
+        "name": "Browsebug",
+        "city": "Nürnberg",
+        "services": [
+            "demolition",
+            "electrical",
+            "excavation"
+        ]
+    },
+    {
+        "name": "Quaxo",
+        "city": "Düsseldorf",
+        "services": [
+            "demolition",
+            "electrical",
+            "sewage"
+        ]
+    },
+    {
+        "name": "Gabtune",
+        "city": "München",
+        "services": [
+            "demolition",
+            "electrical",
+            "plumbing",
+            "sewage"
+        ]
+    },
+    {
+        "name": "Yadel",
+        "city": "Bremen",
+        "services": [
+            "demolition",
+            "electrical",
+            "plumbing"
+        ]
+    },
+    {
+        "name": "Oyonder",
+        "city": "Bonn",
+        "services": [
+            "demolition",
+            "excavation",
+            "plumbing"
+        ]
+    },
+    {
+        "name": "Livefish",
+        "city": "Köln",
+        "services": [
+            "demolition",
+            "plumbing",
+            "sewage"
+        ]
+    },
+    {
+        "name": "Jetpulse",
+        "city": "Dresden",
+        "services": [
+            "sewage"
+        ]
+    },
+    {
+        "name": "Fanoodle",
+        "city": "Bielefeld",
+        "services": [
+            "demolition",
+            "electrical",
+            "excavation",
+            "sewage"
+        ]
+    },
+    {
+        "name": "Skipstorm",
+        "city": "Bielefeld",
+        "services": [
+            "demolition",
+            "electrical",
+            "excavation"
+        ]
+    },
+    {
+        "name": "Flashdog",
+        "city": "Dresden",
+        "services": [
+            "electrical",
+            "excavation",
+            "plumbing"
+        ]
+    },
+    {
+        "name": "Aibox",
+        "city": "Leipzig",
+        "services": [
+            "electrical",
+            "sewage"
+        ]
+    },
+    {
+        "name": "Fadeo",
+        "city": "Hamburg",
+        "services": [
+            "plumbing"
+        ]
+    },
+    {
+        "name": "Gigabox",
+        "city": "München",
+        "services": [
+            "demolition",
+            "electrical",
+            "plumbing",
+            "sewage"
+        ]
+    },
+    {
+        "name": "Jayo",
+        "city": "Dresden",
+        "services": [
+            "excavation",
+            "plumbing",
+            "sewage"
+        ]
+    },
+    {
+        "name": "Geba",
+        "city": "Bremen",
+        "services": [
+            "demolition",
+            "excavation",
+            "sewage"
+        ]
+    },
+    {
+        "name": "Mycat",
+        "city": "Bremen",
+        "services": [
+            "demolition",
+            "electrical",
+            "excavation",
+            "plumbing",
+            "sewage"
+        ]
+    },
+    {
+        "name": "Dynava",
+        "city": "Stuttgart",
+        "services": [
+            "demolition",
+            "electrical",
+            "excavation"
+        ]
+    },
+    {
+        "name": "Agimba",
+        "city": "Wuppertal",
+        "services": [
+            "demolition",
+            "electrical",
+            "excavation",
+            "sewage"
+        ]
+    },
+    {
+        "name": "Tagopia",
+        "city": "Bielefeld",
+        "services": [
+            "demolition"
+        ]
+    },
+    {
+        "name": "Eadel",
+        "city": "Bochum",
+        "services": [
+            "excavation",
+            "plumbing"
+        ]
+    },
+    {
+        "name": "Realbuzz",
+        "city": "Dresden",
+        "services": [
+            "demolition",
+            "plumbing"
+        ]
+    },
+    {
+        "name": "Babbleopia",
+        "city": "Stuttgart",
+        "services": [
+            "electrical",
+            "excavation",
+            "plumbing"
+        ]
+    },
+    {
+        "name": "Leenti",
+        "city": "Berlin",
+        "services": [
+            "demolition",
+            "electrical",
+            "plumbing"
+        ]
+    },
+    {
+        "name": "Skalith",
+        "city": "Bochum",
+        "services": [
+            "demolition",
+            "excavation",
+            "plumbing"
+        ]
+    },
+    {
+        "name": "Gabvine",
+        "city": "Düsseldorf",
+        "services": [
+            "demolition",
+            "electrical",
+            "excavation",
+            "sewage"
+        ]
+    },
+    {
+        "name": "Chatterpoint",
+        "city": "Essen",
+        "services": [
+            "excavation",
+            "sewage"
+        ]
+    },
+    {
+        "name": "Flipstorm",
+        "city": "Leipzig",
+        "services": [
+            "demolition",
+            "electrical",
+            "plumbing",
+            "sewage"
+        ]
+    },
+    {
+        "name": "Divanoodle",
+        "city": "Hannover",
+        "services": [
+            "sewage"
+        ]
+    },
+    {
+        "name": "Avamm",
+        "city": "Hamburg",
+        "services": [
+            "demolition",
+            "electrical",
+            "plumbing"
+        ]
+    },
+    {
+        "name": "Rhynoodle",
+        "city": "Stuttgart",
+        "services": [
+            "demolition",
+            "electrical",
+            "excavation",
+            "plumbing"
+        ]
+    },
+    {
+        "name": "Fliptune",
+        "city": "Bremen",
+        "services": [
+            "demolition",
+            "electrical",
+            "sewage"
+        ]
+    },
+    {
+        "name": "Chatterbridge",
+        "city": "Bonn",
+        "services": [
+            "excavation",
+            "plumbing",
+            "sewage"
+        ]
+    },
+    {
+        "name": "Jaxspan",
+        "city": "Stuttgart",
+        "services": [
+            "demolition",
+            "electrical",
+            "excavation",
+            "plumbing"
+        ]
+    },
+    {
+        "name": "Meejo",
+        "city": "Berlin",
+        "services": [
+            "electrical",
+            "excavation",
+            "plumbing",
+            "sewage"
+        ]
+    },
+    {
+        "name": "Brainbox",
+        "city": "Bonn",
+        "services": [
+            "demolition",
+            "excavation",
+            "plumbing"
+        ]
+    },
+    {
+        "name": "Quinu",
+        "city": "Leipzig",
+        "services": [
+            "electrical",
+            "excavation",
+            "plumbing",
+            "sewage"
+        ]
+    },
+    {
+        "name": "Bluejam",
+        "city": "Köln",
+        "services": [
+            "demolition",
+            "electrical",
+            "excavation"
+        ]
+    },
+    {
+        "name": "Oodoo",
+        "city": "Köln",
+        "services": [
+            "demolition",
+            "electrical",
+            "excavation",
+            "sewage"
+        ]
+    },
+    {
+        "name": "Thoughtmix",
+        "city": "Bochum",
+        "services": [
+            "demolition",
+            "plumbing",
+            "sewage"
+        ]
+    },
+    {
+        "name": "Twinder",
+        "city": "München",
+        "services": [
+            "demolition",
+            "electrical",
+            "excavation"
+        ]
+    },
+    {
+        "name": "Yakijo",
+        "city": "München",
+        "services": [
+            "demolition",
+            "plumbing"
+        ]
+    },
+    {
+        "name": "Demimbu",
+        "city": "Köln",
+        "services": [
+            "excavation",
+            "plumbing",
+            "sewage"
+        ]
+    },
+    {
+        "name": "Rhyloo",
+        "city": "Bonn",
+        "services": [
+            "demolition",
+            "electrical",
+            "excavation",
+            "plumbing"
+        ]
+    },
+    {
+        "name": "Trupe",
+        "city": "Düsseldorf",
+        "services": [
+            "demolition",
+            "electrical",
+            "sewage"
+        ]
+    },
+    {
+        "name": "Tagtune",
+        "city": "Köln",
+        "services": [
+            "demolition",
+            "electrical",
+            "excavation",
+            "plumbing",
+            "sewage"
+        ]
+    },
+    {
+        "name": "Oyoyo",
+        "city": "Stuttgart",
+        "services": [
+            "electrical",
+            "plumbing",
+            "sewage"
+        ]
+    },
+    {
+        "name": "Mybuzz",
+        "city": "Bielefeld",
+        "services": [
+            "electrical",
+            "excavation",
+            "plumbing",
+            "sewage"
+        ]
+    },
+    {
+        "name": "Eimbee",
+        "city": "Nürnberg",
+        "services": [
+            "demolition",
+            "excavation",
+            "sewage"
+        ]
+    },
+    {
+        "name": "Vinder",
+        "city": "Duisburg",
+        "services": [
+            "plumbing"
+        ]
+    },
+    {
+        "name": "Wikivu",
+        "city": "Wuppertal",
+        "services": [
+            "electrical",
+            "excavation",
+            "sewage"
+        ]
+    },
+    {
+        "name": "InnoZ",
+        "city": "Wuppertal",
+        "services": [
+            "demolition",
+            "excavation",
+            "sewage"
+        ]
+    },
+    {
+        "name": "Trilia",
+        "city": "Duisburg",
+        "services": [
+            "demolition",
+            "excavation",
+            "sewage"
+        ]
+    },
+    {
+        "name": "Jetwire",
+        "city": "Essen",
+        "services": [
+            "demolition",
+            "plumbing"
+        ]
+    },
+    {
+        "name": "Vimbo",
+        "city": "Dresden",
+        "services": [
+            "demolition",
+            "excavation"
+        ]
+    },
+    {
+        "name": "Teklist",
+        "city": "Bochum",
+        "services": [
+            "electrical",
+            "excavation",
+            "plumbing"
+        ]
+    },
+    {
+        "name": "Flipbug",
+        "city": "Düsseldorf",
+        "services": [
+            "demolition",
+            "excavation",
+            "plumbing",
+            "sewage"
+        ]
+    },
+    {
+        "name": "Flashpoint",
+        "city": "Hamburg",
+        "services": [
+            "electrical",
+            "excavation",
+            "sewage"
+        ]
+    },
+    {
+        "name": "Ainyx",
+        "city": "Bremen",
+        "services": [
+            "electrical",
+            "plumbing",
+            "sewage"
+        ]
+    },
+    {
+        "name": "Feedfish",
+        "city": "Dresden",
+        "services": [
+            "demolition",
+            "electrical",
+            "excavation",
+            "sewage"
+        ]
+    },
+    {
+        "name": "Voonder",
+        "city": "Dortmund",
+        "services": [
+            "demolition",
+            "excavation",
+            "plumbing",
+            "sewage"
+        ]
+    },
+    {
+        "name": "Skinte",
+        "city": "Hamburg",
+        "services": [
+            "electrical",
+            "excavation"
+        ]
+    },
+    {
+        "name": "Browseblab",
+        "city": "Duisburg",
+        "services": [
+            "electrical",
+            "excavation",
+            "plumbing"
+        ]
+    },
+    {
+        "name": "Shufflester",
+        "city": "Hamburg",
+        "services": [
+            "electrical",
+            "sewage"
+        ]
+    },
+    {
+        "name": "Dablist",
+        "city": "Berlin",
+        "services": [
+            "demolition",
+            "excavation",
+            "plumbing"
+        ]
+    }
+]
