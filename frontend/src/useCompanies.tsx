@@ -13,7 +13,7 @@ export function useCompanies({
   searchMinLength: number;
   services: string[];
 }) {
-  const apiUrl = new URL("/companies", env.API_URL);
+  const apiUrl = new URL("companies", env.API_URL);
   apiUrl.searchParams.set("search", search);
   services.forEach((service) => apiUrl.searchParams.append("services", service));
 
