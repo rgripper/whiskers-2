@@ -8,6 +8,10 @@ describe("GET /user", function () {
 
   it("returns search results according to search", async () => {
     const response = await request(app).get("/companies?search=zoo").expect("Content-Type", /json/).expect(200);
-    expect(JSON.parse(response.text)).toEqual([{ name: "Browsezoom" }, { name: "Gigazoom" }, { name: "Topiczoom" }]);
+    expect(JSON.parse(response.text)).toEqual([
+      { city: "Nürnberg", name: "Browsezoom", services: ["electrical", "excavation"] },
+      { city: "Leipzig", name: "Gigazoom", services: ["excavation", "plumbing"] },
+      { city: "Dortmund", name: "Topiczoom", services: ["demolition", "electrical", "plumbing", "sewage"] },
+    ]);
   });
 });
