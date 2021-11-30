@@ -24,12 +24,6 @@ export function SearchContainer() {
     throw error;
   }
 
-  useEffect(() => {
-    if (selectedServices.length === 0) {
-      selectServices(services);
-    }
-  }, [selectedServices]);
-
   return (
     <Layout>
       <Content style={{ padding: "24px", height: "auto", background: "#ffd666" }}>
