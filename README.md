@@ -1,9 +1,11 @@
 ## Interpretation of the task
 
 Assumed that filtering of companies by name and services is done on the backend.
+Checkboxes filter companies, that have _at least_ one of the selected services (that _may be_ confusing UX)
 
 ## Demo
 
+https://jolly-villani-fb50d0.netlify.app/
 There is a `demo.gif` in this repo with the demo of the app.
 
 ## Initial design
@@ -29,6 +31,7 @@ yarn cypress:open
 ### Notes
 
 Search is debounced
+Site is deployed on Netlify using their service (doesnt work in the Github Actions for some reason)
 
 ### Libraries
 
@@ -39,7 +42,7 @@ Search is debounced
 
 ## Backend
 
-It is built using Serverless meant to run on Node14.
+It is built using Serverless and deployed by a Github action
 
 ### Running locally
 
@@ -61,7 +64,7 @@ Testing is run on `jest` with `supertest`.
 
 ### Serverless
 
-Right now App is running on serverless with intention to be deployed on AWS and intercept calls on wildcard routes using the following:
+Right now App is running on serverless with wildcard routes using the following:
 
 ```yaml
 path: /{any+}
@@ -77,8 +80,6 @@ If there are more endpoints, I would use GraphQL on top of serverless (e.g. `apo
 I would maybe create terraform deployment instead of serverless to have more control (e.g. to run on Node v16, which is at LTS but still doesn't seem to be supported by serverless).
 
 ## TODO:
-
-Build a pipeline using Github Actions (to deploy serverless on AWS and frontend on Netlify)
 
 Add unit tests with `jest` + `react-testing-library` on the frontend.
 
