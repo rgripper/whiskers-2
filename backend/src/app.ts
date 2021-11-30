@@ -1,8 +1,10 @@
 import express from "express";
 import { query, validationResult } from "express-validator";
+import cors from "cors";
 import companies from "./companies.json";
 
 export const app = express();
+app.use(cors());
 
 app.get("/companies", query("search").isLength({ min: 3 }), query("services").optional().toArray(), (req, res) => {
   const errors = validationResult(req);
